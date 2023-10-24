@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ehjOKtXyQpX4QlsEg/aB9WWUc1ZFv0WOzg+4GsD4hjSYUryusEmgjOfFkPwPkX3bIt9p/UQakWmBJFjfAwp5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zagrebelnio\\source\\repos\\pa-zahrebelnyy-ole\\src\\lab1\\PolyphaseSort\\PolyphaseSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zagrebelnio\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
