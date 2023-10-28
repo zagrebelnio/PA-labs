@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NQueen", "NQueen.csproj", "{630511E6-6849-4C14-B456-1A5A4E1BF7CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{630511E6-6849-4C14-B456-1A5A4E1BF7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630511E6-6849-4C14-B456-1A5A4E1BF7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630511E6-6849-4C14-B456-1A5A4E1BF7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630511E6-6849-4C14-B456-1A5A4E1BF7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC8056D-AB51-4F06-BF06-5C80F531664C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A91+2ShnQq/ZxqWmXYeQTaYDe5X4vUcGuVqiEJD/WV2UTAbWPAVN+z1+WxDpOnt5u8oVNbARs86sGU934DQX4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zagrebelnio\\source\\repos\\pa-zahrebelnyy-ole\\src\\lab2\\NQueen\\NQueen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zagrebelnio\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

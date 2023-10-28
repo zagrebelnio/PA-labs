@@ -1,0 +1,17 @@
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\bin\Debug\net6.0\NQueen.exe
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\bin\Debug\net6.0\NQueen.deps.json
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\bin\Debug\net6.0\NQueen.runtimeconfig.json
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\bin\Debug\net6.0\NQueen.dll
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\bin\Debug\net6.0\NQueen.pdb
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\NQueen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\NQueen.AssemblyInfoInputs.cache
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\NQueen.AssemblyInfo.cs
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\NQueen.csproj.CoreCompileInputs.cache
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\NQueen.dll
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\refint\NQueen.dll
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\NQueen.pdb
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\NQueen.genruntimeconfig.cache
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\ref\NQueen.dll
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\bin\Debug\net6.0\CommandLine.dll
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\NQueen.csproj.AssemblyReference.cache
+C:\Users\zagrebelnio\source\repos\pa-zahrebelnyy-ole\src\lab2\NQueen\obj\Debug\net6.0\NQueen.csproj.CopyComplete
