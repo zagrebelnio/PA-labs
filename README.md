@@ -125,3 +125,6 @@ dotnet run --MemoryGB your_limit_in_GB
 ```
 The limit should be in range (1 - 10).
 The default value is 4.
+
+## Lab 3 "Dense index files with overflow area. Homogeneous binary search."
+Program that implements a database using dense index files with overflow area in C#.
